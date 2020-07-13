@@ -1,5 +1,5 @@
 # OfficeMs
-Angular nodejs Development (Added with minified angular build in folder) 
+Angular nodejs Development (Added with minified angular build in public/cms folder) 
 
 To run and test the project please follow below steps
 
