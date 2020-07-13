@@ -9,7 +9,10 @@ To run and test the project please follow below steps
 4) run command 
    nodemon
    
-   To login into application must use database mysql and store Dump20200712.sql file directly.
+   To login into application must use database mysql and store Dump20200714.sql file directly.
+
+   mysql - user name  - root
+   password - root1234  // if you want to update pass & user of database in code then do the changes in connection/DbConnectivity.js
    
    Use credentials 
    Company code: Demoi ,
